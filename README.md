@@ -32,4 +32,4 @@ java SongCollection
 Java · OOP · File I/O
 
 ## Course
-University of Newcastle, 2023
+SENG1110 - University of Newcastle, 2023
